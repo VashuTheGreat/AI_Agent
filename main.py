@@ -4,7 +4,7 @@ from openai import OpenAI
 
 import time
 
-API_KEY = "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"
+API_KEY = "YOUR API KEY"
 
 
 def generate_response(user_input):
